@@ -1,6 +1,7 @@
 
 ## Install:
 - Clone this project (Clone project từ git về htdocs trong xampp)
+- import database
 - Run composer install or composer update (Tạo folder vender)
 - Create .env file : cp .env.example .env (tạo ra file .env để cấu hình Database)
 - Generate app key : php artisan key:generate (Sinh key chạy Laravel)
