@@ -9,3 +9,4 @@
 - Run: php artisan storage:link (Tạo Storage ra thư mục pubic)
 - Open up web server: php artisan serve (Chạy server)
 - Browse app: localhost:8000 or http://127.0.0.1:8000
+- demo: https://drive.google.com/file/d/1Kcj0dBiGWXr1PpS8i-DsUL3wrDUzafxv/view?usp=sharing
